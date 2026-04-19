@@ -1,0 +1,32 @@
+{
+    "AS_Button_f0a472c6550449c3b7dfd47ad2487661": {
+        "id": "AS_Button_f0a472c6550449c3b7dfd47ad2487661",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jbed6d9d922848edb00358fee23e90f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_gb333e65e956453789cb32ea060afbcf",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCrypto",
+            "formKUID": "efd524ec2e8049549fc9b596c5368e32",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCrypto\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

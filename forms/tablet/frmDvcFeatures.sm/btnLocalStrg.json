@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "Local Storage",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "id": "btnLocalStrg",
+    "ide_onClick": "AS_Button_ea7ebd7221a04aabbf1f708d222efb4e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j1ef17084495454bb652b3570286978f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_hf31d9a6b7df41749d61c45af739c8e4",
+    "parent": "flxBody",
+    "pf": "frmDvcFeatures",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

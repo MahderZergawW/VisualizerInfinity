@@ -1,0 +1,236 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Flip"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fade"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveIn"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Push"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Reveal"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Curl"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitHorizontalIn"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitVerticalIn"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitIn"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitRotateIn"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitHorizontalOut"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TwoSplitVerticalOut"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FourSplitOut"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FoutSplitRotateOut"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SwitchLeft"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SwitchRight"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cloth"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FlipRight"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FlipLeft"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Door"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RotateExchange"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveInFromBottom"
+            }
+        },
+        {
+            "lblData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MoveInFromTop"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "022",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTransitions",
+    "ide_onRowClick": "AS_Segment_ac0c340aa0e649309fee5d1efde5a02f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "acbbc3a836c241c484359c52ca0fc4d5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_e87fbcd8c0284b67a6707bb9057075f5",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmAni",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b0534e948bfc49efb6634a695145599e",
+    "rowcounter": 22,
+    "rowfocusskin": "s4890eaeb5c04305b7392910b52e8d7e",
+    "rowskin": "s19e1fe42f7341c3a89044fb387f39bc",
+    "rowtemplate": "CopyflxMainCOnt0ecee7d9fb05945",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sf094c96be7c49828475ff33c2db0c1b",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxMainCOnt0ecee7d9fb05945": "CopyflxMainCOnt0ecee7d9fb05945",
+        "lblData": "lblData"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "More features",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "id": "btnMrFtrs",
+    "ide_onClick": "AS_Button_g9b51cfa5b8b4fcaa1775a55e2e1eb73",
+    "info": null,
+    "ipad": {
+        "render": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j2b988dc5fd54b1abccbf4c944724a82",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_jaa8165487be4484a5b5f96521cefa1a",
+    "parent": "flxBody",
+    "pf": "frmSegmentOptions",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "wType": "Button",
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

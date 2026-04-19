@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0ba8052c95e1146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "CopyLabel0c45b7261535048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "Label0d3967cebdf804d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings 1"
+            }
+        },
+        {
+            "CopyLabel0ba8052c95e1146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "CopyLabel0c45b7261535048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "Label0d3967cebdf804d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings 1"
+            }
+        },
+        {
+            "CopyLabel0ba8052c95e1146": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "CopyLabel0c45b7261535048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$500"
+            },
+            "Label0d3967cebdf804d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings 1"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {
+        "alternateRowSkin": "s3d7e0d3275e452b95d3858c1188aae6"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f9cc25a8539c499fb69de2535c407dce",
+    "groupcells": true,
+    "hasSections": false,
+    "id": "Segment0def07fd26fa242",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "idc4074234d143819feb229aefddb334",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmsegGroupMode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f9cc25a8539c499fb69de2535c407dce",
+    "rowcounter": 2,
+    "rowfocusskin": "s4890eaeb5c04305b7392910b52e8d7e",
+    "rowskin": "se5ade2cb6804cbeb0ff3c8d6cf65a99",
+    "rowtemplate": "CopyFBox0d5e9621377154a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s86c2489b8ec4474a273567e4ab96927",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel0ba8052c95e1146": "CopyLabel0ba8052c95e1146",
+        "CopyLabel0c45b7261535048": "CopyLabel0c45b7261535048",
+        "FlexContainer0gdfb4643007f49": "FlexContainer0gdfb4643007f49",
+        "Label0d3967cebdf804d": "Label0d3967cebdf804d"
+    },
+    "zindex": 1
+}

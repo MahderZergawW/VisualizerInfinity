@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "URL based image scale modes",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0178bae12144d41899f2b7811797d03",
+    "id": "CopyButton0c6ddcdbf372c41",
+    "ide_onClick": "ACTION_SEQUENCE_AS_cbfbf0c8710e4351983fcaba20e33e2d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "daa4d8ee294b4888a919d0d6118d678c",
+    "name": "kony.ui.Button",
+    "parent": "flxBody",
+    "pf": "frmImage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

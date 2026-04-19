@@ -1,0 +1,21 @@
+{
+    "AS_Button_abf6eb2406094ff1a69449c2d653d281": {
+        "id": "AS_Button_abf6eb2406094ff1a69449c2d653d281",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h4e33dfb3b224853b835d808839633f8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "reload",
+            "display": "reload",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

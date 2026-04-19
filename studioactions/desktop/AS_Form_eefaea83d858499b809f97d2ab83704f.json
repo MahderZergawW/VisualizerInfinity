@@ -1,0 +1,23 @@
+{
+    "AS_Form_eefaea83d858499b809f97d2ab83704f": {
+        "id": "AS_Form_eefaea83d858499b809f97d2ab83704f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclMeterReadings",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hf1524bc94d34fac94d27ab20a1bff53"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_fb2f050289844b458de349e72ab26003",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " kony.accelerometer.stopMonitoringAcceleration();",
+            "callbackType": null
+        }]
+    }
+}

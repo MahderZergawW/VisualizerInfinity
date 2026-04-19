@@ -1,0 +1,31 @@
+{
+    "AS_Button_a7c50f6c4e3549c09823789e4b21ba4f": {
+        "id": "AS_Button_a7c50f6c4e3549c09823789e4b21ba4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniFlipRight",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j3cdd44843c94276bd1da9a352a6bafa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f2dd22bcb67d4d96b6d38e8fb0e4de4f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

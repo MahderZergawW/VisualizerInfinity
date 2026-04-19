@@ -1,0 +1,21 @@
+{
+    "AS_Button_e52da8d07f484af49ab4a16153b94026": {
+        "id": "AS_Button_e52da8d07f484af49ab4a16153b94026",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h44f4f5e08df4ae99ddc3cdc8d28073b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "RemoveItem",
+            "display": "RemoveItem",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

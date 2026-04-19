@@ -1,0 +1,31 @@
+{
+    "ACTION_SEQUENCE_AS_df14e36cada5427b953facebc12e2cf7": {
+        "id": "ACTION_SEQUENCE_AS_df14e36cada5427b953facebc12e2cf7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h157161fda6e4850a76c041f0ebaef7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cb403de8f4c04230984969f2bd8a3a1d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDeviceInfo",
+            "formKUID": "e293e2a8e6a44f93858e951454ea1c94",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

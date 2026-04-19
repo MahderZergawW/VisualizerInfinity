@@ -1,0 +1,329 @@
+{
+    "android": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "default",
+        "isForked": true
+    },
+    "androidwearos": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "default",
+        "isForked": true
+    },
+    "background_color": "a7a7a7ff",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "ipad": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "System",
+        "isForked": true
+    },
+    "iphone": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "System",
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "None",
+        "isForked": true
+    },
+    "kuid": "s86c2489b8ec4474a273567e4ab96927",
+    "spaan": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "spaip": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "spaipad": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "spawinphone8": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "Helvetica",
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "default",
+        "isForked": true
+    },
+    "wType": "Segment",
+    "watchos": {
+        "font_name": "System"
+    },
+    "windows8": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "None",
+        "isForked": true
+    },
+    "winphone8": {
+        "background_color": {
+            "angle": 270,
+            "colors": [
+                "a7a7a7ff",
+                "a7a7a7ff",
+                "808080ff"
+            ],
+            "cs": [
+                0,
+                45,
+                91
+            ],
+            "gradientType": "toLeft",
+            "gt": "linear"
+        },
+        "background_style": "linear",
+        "bg_type": "ms_gradient",
+        "font_name": "None",
+        "isForked": true
+    }
+}

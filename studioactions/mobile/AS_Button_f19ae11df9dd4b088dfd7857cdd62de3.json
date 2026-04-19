@@ -1,0 +1,21 @@
+{
+    "AS_Button_f19ae11df9dd4b088dfd7857cdd62de3": {
+        "id": "AS_Button_f19ae11df9dd4b088dfd7857cdd62de3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cda4ff2af77f4ae081a66a864de57d3d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "decrypt",
+            "display": "decrypt",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

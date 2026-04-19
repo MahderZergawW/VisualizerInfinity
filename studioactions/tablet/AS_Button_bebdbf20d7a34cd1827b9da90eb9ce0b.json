@@ -1,0 +1,27 @@
+{
+    "AS_Button_bebdbf20d7a34cd1827b9da90eb9ce0b": {
+        "id": "AS_Button_bebdbf20d7a34cd1827b9da90eb9ce0b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickerView",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f0d2f2148e2c48ac960d140707599ff4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dd3d1c431f724c6e93fbc6e5994f7d85",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setNewData",
+            "display": "setNewData",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

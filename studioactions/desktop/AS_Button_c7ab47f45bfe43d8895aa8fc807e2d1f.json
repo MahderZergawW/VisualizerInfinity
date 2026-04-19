@@ -1,0 +1,32 @@
+{
+    "AS_Button_c7ab47f45bfe43d8895aa8fc807e2d1f": {
+        "id": "AS_Button_c7ab47f45bfe43d8895aa8fc807e2d1f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic2ade35a9ac4fcc807a1834823e0db6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_gc2441c254e1448b95101a00beae0d61",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGeoCurrentNWatch",
+            "formKUID": "f014ac0d06824019b2d3049f61f28299",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnGeolocatn\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

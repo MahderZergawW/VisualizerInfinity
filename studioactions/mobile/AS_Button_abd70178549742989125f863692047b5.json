@@ -1,0 +1,31 @@
+{
+    "AS_Button_abd70178549742989125f863692047b5": {
+        "id": "AS_Button_abd70178549742989125f863692047b5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniMoveInFromBottom",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a93817a7bf774345abfeca2f333d9ea0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ee85c737d09d440fa218e02b36a2bf92",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

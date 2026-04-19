@@ -1,0 +1,25 @@
+{
+    "AS_Button_c4f2588ae6594ddfb128d3106a634fd1": {
+        "id": "AS_Button_c4f2588ae6594ddfb128d3106a634fd1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "cac34466c12c4defa894cc5515bb0563"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j19a271b6f064edd8f24414aecab6a24",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Clicked Button in the row\");",
+            "callbackType": null
+        }]
+    }
+}

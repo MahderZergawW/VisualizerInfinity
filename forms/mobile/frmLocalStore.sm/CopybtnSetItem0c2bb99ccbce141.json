@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "Read key",
+    "_top_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "id": "CopybtnSetItem0c2bb99ccbce141",
+    "ide_onClick": "ACTION_SEQUENCE_AS_a7c53277f87349e0aa18e8bf1aae353d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f53945a1714e4f9d9ff050907c8c8d9f",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexContainer0c1c7e3699e1947",
+    "pf": "frmLocalStore",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

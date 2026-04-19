@@ -1,0 +1,32 @@
+{
+    "AS_Button_b7f1f3503f654562b5eff18cad6eb6e7": {
+        "id": "AS_Button_b7f1f3503f654562b5eff18cad6eb6e7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTtlbarOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e78a175fb994433fb9ff9db00b9d28ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a0d84bbad58b47c9a7f2be257f50a67b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTtlbarDefault",
+            "formKUID": "e6865653154a48b8b325ee0d664b4197",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnDefTitl\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

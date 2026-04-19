@@ -1,0 +1,32 @@
+{
+    "AS_Button_d329bbb2991c46ada4b1f9cc51948529": {
+        "id": "AS_Button_d329bbb2991c46ada4b1f9cc51948529",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTabs",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd7f9862fc244b76bca2f8c3eaff068d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_h68c94a6df2a439aa73b741f76307f34",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTabCollpasible",
+            "formKUID": "b1f1cb13d9334380ad915953eb238d0a",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCollapsible\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

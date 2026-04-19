@@ -1,0 +1,23 @@
+{
+    "AS_Form_i083875da1914b7a8e686f3bd8cf9cbd": {
+        "id": "AS_Form_i083875da1914b7a8e686f3bd8cf9cbd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGestures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e7dce20945c2419fab88fa4d8fb0fcf8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_f171c8a1e2d14ca18494f79a132fe05b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.GenericGestureHandler();",
+            "callbackType": null
+        }]
+    }
+}

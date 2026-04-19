@@ -1,0 +1,21 @@
+{
+    "AS_Button_e90aa2fdb4294a62a2ab89db5544a6f4": {
+        "id": "AS_Button_e90aa2fdb4294a62a2ab89db5544a6f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_g3873febd5f44df08885a40393643ba0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goBack",
+            "display": "goBack",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

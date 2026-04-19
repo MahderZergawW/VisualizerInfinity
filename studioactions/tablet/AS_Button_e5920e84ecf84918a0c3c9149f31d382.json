@@ -1,0 +1,59 @@
+{
+    "AS_Button_e5920e84ecf84918a0c3c9149f31d382": {
+        "id": "AS_Button_e5920e84ecf84918a0c3c9149f31d382",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jbed6d9d922848edb00358fee23e90f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "IF_CONDITION_ide_onClick_ad7b80e52bc44cf29e1c4afb64a3932f",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "kony.os.deviceInfo().model != \"iPhone Simulator\" && kony.os.userAgent()!=\"google_sdk\""
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_da31e9be019941758695cf324655984a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAclmeterOptions",
+            "formKUID": "i8d69fc7bed6440e9c3c83e55b8ec3cf",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "IF_CONDITION_ide_onClick_ad7b80e52bc44cf29e1c4afb64a3932f",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnAccMtr\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ELSE_CONDITION_ide_onClick_ead0463692a94691adaab81694e9562a",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_i198179d018141c8b33354365458bf87",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Works only on device\");",
+            "parentId": "ELSE_CONDITION_ide_onClick_ead0463692a94691adaab81694e9562a",
+            "callbackType": null
+        }]
+    }
+}

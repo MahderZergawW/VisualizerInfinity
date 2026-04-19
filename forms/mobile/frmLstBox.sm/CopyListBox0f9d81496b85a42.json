@@ -1,0 +1,111 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_render_": true,
+    "_skin_": "sd3a8ddc215942ae9b27bfbf7b828a3d",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s664d9ac13894f06899d52014460a70a",
+    "groupcells": false,
+    "id": "CopyListBox0f9d81496b85a42",
+    "info": null,
+    "iphone": {
+        "render": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b1a629ad967c469ab7a75090f6fb74b2",
+    "masterdata": [
+        [
+            "lb1",
+            "Value1"
+        ],
+        [
+            "lb2",
+            "Value2"
+        ],
+        [
+            "lb3",
+            "Value3"
+        ],
+        [
+            "Key1256911736",
+            "Value4"
+        ],
+        [
+            "Key230995359",
+            "Value5"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxBody",
+    "pf": "frmLstBox",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Value1"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

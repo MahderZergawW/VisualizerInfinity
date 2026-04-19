@@ -1,0 +1,27 @@
+{
+    "AS_Button_i0f4ec15a70b460a9041a8b7e7063455": {
+        "id": "AS_Button_i0f4ec15a70b460a9041a8b7e7063455",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContact",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j4eaa7dbf78e4f21994b7c1977cfa8f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f17c89e700fc4760ba474d6a9a8e3469",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeContact",
+            "display": "removeContact",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

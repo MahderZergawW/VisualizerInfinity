@@ -1,0 +1,28 @@
+{
+    "AS_Button_idd6fa58a0a548139a0c6949c37cf0f4": {
+        "id": "AS_Button_idd6fa58a0a548139a0c6949c37cf0f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWebSQL",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dbfc4483128249b39ea41c0597ddee12"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4af0855a45f405bb09237bd5d29864d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactioninsertData",
+            "display": "doTransactioninsertData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        27,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8f2a5650c404528ad9d5ce068a7bc45",
+    "_text_": "Back",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "76dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s0696c3010af4a22814c5ede15ab175c",
+    "id": "headerButtonLeft",
+    "ide_onClick": "AS_Button_d9eb29c816924ef593db8f28ed75598a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f3260c223a1d43e6955e028a24b0fb12",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_gc6a12fbbd8d44a49d799d5328e8834b",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "headerContainer25",
+    "pf": "frmCalendarEvents",
+    "wType": "Button",
+    "zindex": 1
+}

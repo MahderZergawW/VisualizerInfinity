@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sda3cf0af75349a0bd86131dc017b614",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "chkbxHrtnlOrntn",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        },
+        "render": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "e352c41790c444619fad7994deb5fc52",
+    "masterdata": [
+        [
+            "cbg1",
+            "value1"
+        ],
+        [
+            "cbg2",
+            "value2"
+        ],
+        [
+            "cbg3",
+            "value3"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "horizontal",
+    "parent": "flxBody",
+    "pf": "frmChk",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": [
+        "cbg2"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "cbg2",
+            "value2"
+        ]
+    ],
+    "size": 18,
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "tickedimage": "chkboxchkd.png",
+    "untickedimage": "chkbox.png",
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

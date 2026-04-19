@@ -1,0 +1,34 @@
+{
+    "ACTION_SEQUENCE_AS_b751377f62144bd8b9e85e1e2186711e": {
+        "id": "ACTION_SEQUENCE_AS_b751377f62144bd8b9e85e1e2186711e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "component"
+        }, {
+            "datatype": "string",
+            "name": "keyselected"
+        }],
+        "contextObj": {
+            "name": "frmPickerView",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b1efe25d0f2b421da5474373dc9783e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ac5c9848e60d48b0b6e803d40ffd4057",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pickerviewselkeyvalues",
+            "display": "pickerviewselkeyvalues",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

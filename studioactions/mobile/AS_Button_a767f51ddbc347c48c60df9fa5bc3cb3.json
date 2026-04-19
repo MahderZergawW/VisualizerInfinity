@@ -1,0 +1,31 @@
+{
+    "AS_Button_a767f51ddbc347c48c60df9fa5bc3cb3": {
+        "id": "AS_Button_a767f51ddbc347c48c60df9fa5bc3cb3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAni4SplitRotateIn",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ec16ad775cc849f7bedb282777064c5f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a7a6f1030d7d47628dc9c0c7916c7633",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

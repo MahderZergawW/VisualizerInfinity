@@ -1,0 +1,26 @@
+{
+    "AS_Button_b6b58bc8150a4756bd9d74f014e5f762": {
+        "id": "AS_Button_b6b58bc8150a4756bd9d74f014e5f762",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segTempActionable",
+            "type": "templates",
+            "KUID": "e559f8280f8e4496a4f8c63889f5224a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dfcce0eef70d410288b014d9a67da593",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Clicked Button in the row\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_h4475dc52a644eb0b0439c5008cdb196": {
+        "id": "ACTION_SEQUENCE_AS_h4475dc52a644eb0b0439c5008cdb196",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEmail",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cec4cca3d7804bf6ac8590b7290d0f80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ab60eb55b90c4352a5977067b28cb4e9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "emailSend",
+            "display": "emailSend",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" name="KitchenSink-Custom" >
+    
+	<parameter name="platform" value="ANDROID" />
+	<parameter name="imei" value="1234" />
+	
+  <test name="KitchenSink-Tests" parallel="false" preserve-order="true" >
+  
+	 <classes>
+		<class name="com.kony.appiumTests.tests.FrmHomeTests" />
+  </classes>
+  
+    </test>
+</suite>

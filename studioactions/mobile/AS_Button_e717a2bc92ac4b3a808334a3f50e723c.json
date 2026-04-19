@@ -1,0 +1,25 @@
+{
+    "AS_Button_e717a2bc92ac4b3a808334a3f50e723c": {
+        "id": "AS_Button_e717a2bc92ac4b3a808334a3f50e723c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_h32b61ad4ec14a09a589e6ffb88e7570",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAniAnd",
+            "formKUID": "j699625c0f894b0d8cb26994a9b62b86",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

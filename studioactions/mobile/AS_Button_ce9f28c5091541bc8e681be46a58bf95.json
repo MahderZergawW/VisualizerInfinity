@@ -1,0 +1,21 @@
+{
+    "AS_Button_ce9f28c5091541bc8e681be46a58bf95": {
+        "id": "AS_Button_ce9f28c5091541bc8e681be46a58bf95",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_hb3f89972d9e454fb18d1444c7be58aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createHashMD4",
+            "display": "createHashMD4",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

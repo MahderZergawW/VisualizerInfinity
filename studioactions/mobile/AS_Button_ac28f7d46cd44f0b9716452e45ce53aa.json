@@ -1,0 +1,21 @@
+{
+    "AS_Button_ac28f7d46cd44f0b9716452e45ce53aa": {
+        "id": "AS_Button_ac28f7d46cd44f0b9716452e45ce53aa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b27a01b25a6d481d96932b8eb0410625",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setNewData",
+            "display": "setNewData",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

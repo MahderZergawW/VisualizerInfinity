@@ -1,0 +1,31 @@
+{
+    "AS_Button_i4ce7202c91c44b3bf01236631515ef3": {
+        "id": "AS_Button_i4ce7202c91c44b3bf01236631515ef3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniRotateExchange",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a3afb42f7f0343a985dcbe445cf43744"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f0ee125a0552443c99101aff3206699c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

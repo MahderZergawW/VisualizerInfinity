@@ -1,0 +1,21 @@
+{
+    "AS_Button_cdb88d2ca1ab4e63b409f8045ecf727c": {
+        "id": "AS_Button_cdb88d2ca1ab4e63b409f8045ecf727c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f6535cbd3dc1462eb0641b3f3a0f86ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "findContact",
+            "display": "findContact",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

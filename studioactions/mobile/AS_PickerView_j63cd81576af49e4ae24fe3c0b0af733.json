@@ -1,0 +1,27 @@
+{
+    "AS_PickerView_j63cd81576af49e4ae24fe3c0b0af733": {
+        "id": "AS_PickerView_j63cd81576af49e4ae24fe3c0b0af733",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "component"
+        }, {
+            "datatype": "string",
+            "name": "keyselected"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onSelection_b19f51f03c1743dfabaf0b0f6d88b0e1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pickerviewselkeyvalues",
+            "display": "pickerviewselkeyvalues",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

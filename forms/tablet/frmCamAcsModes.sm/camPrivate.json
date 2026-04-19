@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s58de4ec381a46f2814914722f77c115",
+    "_text_": "Private mode",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "accessmode": "private",
+    "android": {
+        "overlayConfig": {
+            "captureButtonSkin": "s58de4ec381a46f2814914722f77c115",
+            "captureButtonText": "Capture",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": "",
+            "tapAnywhere": false
+        }
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "enableoverlay": true,
+    "id": "camPrivate",
+    "ide_onCapture": "AS_Camera_a6dbc5a5d7ff4908b4ea1242f057f36a",
+    "info": null,
+    "ipad": {
+        "overlayConfig": {
+            "startVideoButtonText": "",
+            "stopVideoButtonText": ""
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ib66152103aa45e0926a2b1853e7e9ec",
+    "name": "kony.ui.Camera",
+    "oncapture": "AS_Camera_a2010a8f3c4a4537ad766a7632e597b0",
+    "parent": "flxBody",
+    "pf": "frmCamAcsModes",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "windows8": {
+        "overlayConfig": {
+            "tapAnywhere": false
+        }
+    },
+    "zindex": 1
+}

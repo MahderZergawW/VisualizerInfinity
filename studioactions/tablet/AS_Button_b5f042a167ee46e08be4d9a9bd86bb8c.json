@@ -1,0 +1,32 @@
+{
+    "AS_Button_b5f042a167ee46e08be4d9a9bd86bb8c": {
+        "id": "AS_Button_b5f042a167ee46e08be4d9a9bd86bb8c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGestures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e7dce20945c2419fab88fa4d8fb0fcf8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_dca0f73528424ddfb8378b904810148f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmFormOptions",
+            "formKUID": "i8626572649440c4aa39ee29c8ada9cf",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

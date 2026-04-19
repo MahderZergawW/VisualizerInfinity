@@ -1,0 +1,32 @@
+{
+    "AS_Button_bbaaa134cbfb4c8c87c3199893590328": {
+        "id": "AS_Button_bbaaa134cbfb4c8c87c3199893590328",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g36484a9c3d646708bb23713578d49c2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ac8ca0ac9a8d4386bc11320c83785539",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmURLBasedImage",
+            "formKUID": "i22e985924174d2385d0fde5138da766",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

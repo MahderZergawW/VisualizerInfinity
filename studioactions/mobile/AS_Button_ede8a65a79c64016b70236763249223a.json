@@ -1,0 +1,21 @@
+{
+    "AS_Button_ede8a65a79c64016b70236763249223a": {
+        "id": "AS_Button_ede8a65a79c64016b70236763249223a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b3267e7192b0425d94361b648c80edf1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "startmonitoringAcc",
+            "display": "startmonitoringAcc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

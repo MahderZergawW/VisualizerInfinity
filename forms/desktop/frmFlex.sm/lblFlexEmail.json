@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 1
+    },
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s25a996905ca4ba3978f9ac682b48159",
+    "_text_": "Email : mark.taylor@kony.com",
+    "_top_": {
+        "type": "string",
+        "value": "500dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "500dp"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblFlexEmail",
+    "includeFontPadding": false,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fe2d24c25b234e88b161f1fbeae608ec",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxBody",
+    "pf": "frmFlex",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

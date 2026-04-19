@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_d7fd7ce645934659a41613b8478b1367": {
+        "id": "ACTION_SEQUENCE_AS_d7fd7ce645934659a41613b8478b1367",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocalStore",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d0e784ba054344489bd1745d5eab8013"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e329492597aa4ad5a7440c0d2b3082a3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ClearItem",
+            "display": "ClearItem",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_ecb78bd5580e4310a59fbeaea49b720c": {
+        "id": "AS_Button_ecb78bd5580e4310a59fbeaea49b720c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmToggleTabs",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i0b5dfce56344ac3a735dab94793727e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_j01cee2229844927bf6e4dcdaf3423f5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTabs",
+            "formKUID": "i99570ca6b714bbeae9b63a36c66adb6",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

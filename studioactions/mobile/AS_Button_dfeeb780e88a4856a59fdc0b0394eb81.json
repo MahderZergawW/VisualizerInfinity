@@ -1,0 +1,31 @@
+{
+    "AS_Button_dfeeb780e88a4856a59fdc0b0394eb81": {
+        "id": "AS_Button_dfeeb780e88a4856a59fdc0b0394eb81",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniDoor",
+            "type": "forms",
+            "platform": null,
+            "KUID": "gb76908de16546b6a8244ef4a84ab667"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c534fad104a840c7b5deb57d2145dfef",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

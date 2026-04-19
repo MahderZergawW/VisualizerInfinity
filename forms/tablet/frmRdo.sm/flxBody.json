@@ -1,0 +1,84 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s895e2ccce8e4c5d8fd698778d1962f6",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "Label0iefff3bf29d740",
+        "RadioButtonGroup0g130fbe575d34f",
+        "CopyLabel0g01bfb4919de4d",
+        "CopyRadioButtonGroup0f484650f8d514c",
+        "CopyLabel0abb26a594fcb40",
+        "CopyRadioButtonGroup0c5b73f53632844",
+        "CopyLabel0c98f0943834f47",
+        "CopyLabel0af454d5fa2224f",
+        "CopyRadioButtonGroup0b0b0cecc6f5943",
+        "CopyLabel0b783cbe9d29943",
+        "CopyRadioButtonGroup0a94653a76c0648",
+        "CopyLabel0he58ec9641304d",
+        "CopyRadioButtonGroup0a520708bc9ea4f",
+        "CopyLabel0a61e6c20a8884d",
+        "CopyRadioButtonGroup0fb4e34a22ae441"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "flxBody",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b4c4bb476b17413b83563003596ff728",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmRdo",
+    "pf": "frmRdo",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "vizProps": {},
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

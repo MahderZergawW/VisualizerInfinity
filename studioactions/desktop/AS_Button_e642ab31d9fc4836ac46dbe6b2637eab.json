@@ -1,0 +1,32 @@
+{
+    "AS_Button_e642ab31d9fc4836ac46dbe6b2637eab": {
+        "id": "AS_Button_e642ab31d9fc4836ac46dbe6b2637eab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic2ade35a9ac4fcc807a1834823e0db6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a52da4fbfa5b480c8a25444c1182f474",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCalendarEvents",
+            "formKUID": "f1c9c7564f5641c39c65e54df22b9b73",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCalEvents\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

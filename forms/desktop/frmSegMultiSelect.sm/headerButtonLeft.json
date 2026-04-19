@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        27,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b7df6d830a4b7dbff66a555b867913",
+    "_text_": "Back",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "76dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s450ec9721174616973eb98c03c88828",
+    "id": "headerButtonLeft",
+    "ide_onClick": "AS_Button_b31029ccaca044bcb3e8a2d65884fc9e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d557a65e95ce47ce8123681dec0724da",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_g7ef2605514542d69519bc8b5aee12ae",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "headerContainer25",
+    "pf": "frmSegMultiSelect",
+    "wType": "Button",
+    "zindex": 1
+}

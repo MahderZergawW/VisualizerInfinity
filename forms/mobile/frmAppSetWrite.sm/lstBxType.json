@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s22e93c97387498e8d0606af88cd645d",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s664d9ac13894f06899d52014460a70a",
+    "groupcells": false,
+    "id": "lstBxType",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d50bc179d81b4ddeb65c70352536ec3d",
+    "masterdata": [
+        [
+            "Table view",
+            "Table view"
+        ],
+        [
+            "Page view",
+            "Page view"
+        ],
+        [
+            "Coverflow view",
+            "Coverflow view"
+        ],
+        [
+            "Cylinder view",
+            "Cylinder view"
+        ],
+        [
+            "Linear view",
+            "Linear view"
+        ],
+        [
+            "Stack view",
+            "Stack view"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "CopyFlexContainer0d34c96d7be0e48",
+    "pf": "frmAppSetWrite",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "Table view",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "Table view",
+        "Table view"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

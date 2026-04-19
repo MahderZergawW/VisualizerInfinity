@@ -1,0 +1,32 @@
+{
+    "AS_Button_adb082d4944440d7bc8d744a8a9032b0": {
+        "id": "AS_Button_adb082d4944440d7bc8d744a8a9032b0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jbed6d9d922848edb00358fee23e90f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d9fc475bc6f04ac48dc81c868c5bff9c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGeoCurrentNWatch",
+            "formKUID": "f014ac0d06824019b2d3049f61f28299",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnGeolocatn\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

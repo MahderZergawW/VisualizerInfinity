@@ -1,0 +1,31 @@
+{
+    "AS_Button_iacdff0b86f7430491934df99b65d12a": {
+        "id": "AS_Button_iacdff0b86f7430491934df99b65d12a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegInvertCylinderView",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d837f5139b384bf8a08619bc47daed48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_h1c67b8d09d94144a7677adc9ff95052",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegViews",
+            "formKUID": "ef83a5b297e24681b3064707189a0f58",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

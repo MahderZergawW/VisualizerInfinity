@@ -1,0 +1,178 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s236c7c9f3564d97b4b26074bbaf0ca5",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        },
+        "titleBar": true
+    },
+    "androidwearos": {
+        "needAppMenu": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "headerContainer25",
+        "Label0gd9c7f2e773f45"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "frmTtlbarCustomController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhoneX",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmTtlbarCustom",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4
+        },
+        "titleBar": false
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "a13c4fee1d93418b92103d2064866685",
+                "leftBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_e1f772faf1604262af49e45fa6f1c9f9",
+                        "info": {
+                            "displayText": true,
+                            "focusSkin": "s0178bae12144d41899f2b7811797d03",
+                            "height": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "refType": "Button",
+                            "skin": "s860aaf99a1c423686c0de2c0d5e0d8c",
+                            "text": "Home",
+                            "width": {
+                                "type": "ref",
+                                "value": "preferred"
+                            }
+                        },
+                        "kuid": "cc6d96e4a2ad41dba204389f5d081443",
+                        "style": 0,
+                        "tintColor": "33ff0000",
+                        "type": 3
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "displayText": true,
+                            "focusSkin": "s0178bae12144d41899f2b7811797d03",
+                            "height": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "refType": "Button",
+                            "skin": "s860aaf99a1c423686c0de2c0d5e0d8c",
+                            "text": "Previous",
+                            "width": {
+                                "type": "ref",
+                                "value": "preferred"
+                            }
+                        },
+                        "kuid": "df1f65eec1324811a771210a375b06b6",
+                        "style": 0,
+                        "tintColor": "33ff0000",
+                        "type": 3
+                    }
+                ],
+                "tintColor": "33ff0000",
+                "translucent": true
+            }
+        },
+        "titleBar": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "bdf3384910734151800c2e3f59378cf8",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhoneX",
+    "prevPlatform": "iphone",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhoneX",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "titleBarSkin": "sbfef7751bb446fd845030102642c8fb",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    },
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

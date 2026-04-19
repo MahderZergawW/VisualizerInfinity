@@ -1,0 +1,32 @@
+{
+    "AS_Button_he07eb7f29cb48cab4d876b149ebad14": {
+        "id": "AS_Button_he07eb7f29cb48cab4d876b149ebad14",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegmentMoreFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cace25b293c14eea9840ebf0efcd6772"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f9d00a9f617246bd898360dc1f6eaf68",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPushPull",
+            "formKUID": "f61b91018e724cd69e840fd7386053f3",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnPullToRfrsh\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

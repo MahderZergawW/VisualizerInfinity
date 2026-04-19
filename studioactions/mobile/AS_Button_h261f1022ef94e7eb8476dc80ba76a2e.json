@@ -1,0 +1,21 @@
+{
+    "AS_Button_h261f1022ef94e7eb8476dc80ba76a2e": {
+        "id": "AS_Button_h261f1022ef94e7eb8476dc80ba76a2e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_af04d60796664e6ebd972d1d6c1a53c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ClearItem",
+            "display": "ClearItem",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_e78d489d8341459fb5c9197d182f5ce3": {
+        "id": "ACTION_SEQUENCE_AS_e78d489d8341459fb5c9197d182f5ce3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWebSQL",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dbfc4483128249b39ea41c0597ddee12"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g2dd36d2798944a495c9c54cb1a62484",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactionDelete",
+            "display": "doTransactionDelete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

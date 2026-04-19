@@ -1,0 +1,26 @@
+{
+    "AS_Button_eb3b5d20207e48eab472bba3bd109814": {
+        "id": "AS_Button_eb3b5d20207e48eab472bba3bd109814",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ba2b7dcbb0014fe19fe8c77c598c6466",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegInvertCylinderView",
+            "formKUID": "d837f5139b384bf8a08619bc47daed48",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnInvertedCyclndrcalView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

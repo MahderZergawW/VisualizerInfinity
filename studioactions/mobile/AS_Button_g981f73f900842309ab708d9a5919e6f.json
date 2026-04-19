@@ -1,0 +1,26 @@
+{
+    "AS_Button_g981f73f900842309ab708d9a5919e6f": {
+        "id": "AS_Button_g981f73f900842309ab708d9a5919e6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d62ae7e6c3a243b4b77fc2ee074e1028",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegStackView",
+            "formKUID": "d0413665ae504be0baad2645275dc282",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnStackView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

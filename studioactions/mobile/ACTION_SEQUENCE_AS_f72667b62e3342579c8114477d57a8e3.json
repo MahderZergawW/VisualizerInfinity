@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_f72667b62e3342579c8114477d57a8e3": {
+        "id": "ACTION_SEQUENCE_AS_f72667b62e3342579c8114477d57a8e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEmail",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cec4cca3d7804bf6ac8590b7290d0f80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___df88061a62384f9d80361d15e6a8361d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "emailSendWithAttachment",
+            "display": "emailSendWithAttachment",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

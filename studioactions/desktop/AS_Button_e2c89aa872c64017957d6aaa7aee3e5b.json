@@ -1,0 +1,27 @@
+{
+    "AS_Button_e2c89aa872c64017957d6aaa7aee3e5b": {
+        "id": "AS_Button_e2c89aa872c64017957d6aaa7aee3e5b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic2ade35a9ac4fcc807a1834823e0db6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_i8507f1e986d47cfa1bf1d04ad45ad67",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sendSMS",
+            "display": "sendSMS",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "AS_Segment_j5e09360e873468abe66ada11f1c3b0e": {
+        "id": "AS_Segment_j5e09360e873468abe66ada11f1c3b0e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "editmode"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPushPull",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f61b91018e724cd69e840fd7386053f3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEditing_dba7d8d1b8d34305b7d0e54aeaecce67",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEditing",
+            "display": "onEditing",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

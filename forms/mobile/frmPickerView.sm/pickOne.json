@@ -1,0 +1,223 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizPickerView",
+    "DNDConfig": null,
+    "__inst": null,
+    "__parentReadjusting__": false,
+    "__wheels": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s081f49f10c5414d9f0448dbbdd7cb18",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 1
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "pickOne",
+    "ide_onSelection": "ACTION_SEQUENCE_AS_b751377f62144bd8b9e85e1e2186711e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "a6567854b4a842d6be33646c782bb9c8",
+    "masterdata": [
+        [
+            [
+                "1",
+                "BMW"
+            ],
+            [
+                "2",
+                "Chevrolet"
+            ],
+            [
+                "3",
+                "Aston Martin"
+            ],
+            [
+                "4",
+                "Ferrari"
+            ],
+            [
+                "5",
+                "Honda"
+            ],
+            [
+                "6",
+                "Hyundai"
+            ],
+            [
+                "7",
+                "Jaguar"
+            ],
+            [
+                "8",
+                "Jeep"
+            ],
+            [
+                "9",
+                "Porsche"
+            ],
+            33,
+            "Brand"
+        ],
+        [
+            [
+                "1",
+                "2003"
+            ],
+            [
+                "2",
+                "2004"
+            ],
+            [
+                "3",
+                "2005"
+            ],
+            [
+                "4",
+                "2006"
+            ],
+            [
+                "5",
+                "2007"
+            ],
+            [
+                "6",
+                "2008"
+            ],
+            [
+                "7",
+                "2009"
+            ],
+            [
+                "8",
+                "2010"
+            ],
+            [
+                "9",
+                "2011"
+            ],
+            33,
+            "YearofManufacture"
+        ],
+        [
+            [
+                "1",
+                "Black"
+            ],
+            [
+                "2",
+                "Silver"
+            ],
+            [
+                "3",
+                "White"
+            ],
+            [
+                "4",
+                "Red"
+            ],
+            [
+                "5",
+                "Gray"
+            ],
+            [
+                "6",
+                "Yellow"
+            ],
+            [
+                "7",
+                "Blue"
+            ],
+            [
+                "8",
+                "Gold"
+            ],
+            [
+                "9",
+                "Purple"
+            ],
+            34,
+            "Color"
+        ]
+    ],
+    "masterdatamap": null,
+    "name": "kony.ui.PickerView",
+    "parent": "flxBody",
+    "pf": "frmPickerView",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        "BMW",
+        "2003",
+        "Black"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "PickerView",
+    "watchos": {
+        "render": false
+    },
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_i03bb5f23d7145f0ac2eab9cfb0b1e7b": {
+        "id": "AS_Button_i03bb5f23d7145f0ac2eab9cfb0b1e7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_de1760f1e43d4e95bc56d3c7c465d3d6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addContact",
+            "display": "addContact",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

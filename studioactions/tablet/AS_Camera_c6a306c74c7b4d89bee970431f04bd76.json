@@ -1,0 +1,30 @@
+{
+    "AS_Camera_c6a306c74c7b4d89bee970431f04bd76": {
+        "id": "AS_Camera_c6a306c74c7b4d89bee970431f04bd76",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCamOrient",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ja961f639d36413890506e05eb79d85e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onCapture_a5a7782e9ae6472abd55481d0b2ed153",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCapturePortrait",
+            "display": "onCapturePortrait",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

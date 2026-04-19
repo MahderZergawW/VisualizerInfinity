@@ -1,0 +1,153 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s236c7c9f3564d97b4b26074bbaf0ca5",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        },
+        "titleBar": true
+    },
+    "androidwearos": {
+        "needAppMenu": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "headerContainer25",
+        "Label0gd9c7f2e773f45"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "frmTtlbarCustomController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "frmTtlbarCustom",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "hbb777069dff487698e9831f4722e8e3",
+                "leftBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_bc4a5cbf0cd54b88a30a86a62f9701f3",
+                        "info": {
+                            "displayText": true,
+                            "focusSkin": "s0178bae12144d41899f2b7811797d03",
+                            "height": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "refType": "Button",
+                            "skin": "s860aaf99a1c423686c0de2c0d5e0d8c",
+                            "text": "Home",
+                            "width": {
+                                "type": "ref",
+                                "value": "preferred"
+                            }
+                        },
+                        "kuid": "cd3e15a8cf794c4791b562e14a1d2c41",
+                        "onClick": "AS_BarButtonItem_bc4a5cbf0cd54b88a30a86a62f9701f3",
+                        "style": 0,
+                        "tintColor": "33ff0000",
+                        "type": 3
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "displayText": true,
+                            "focusSkin": "s0178bae12144d41899f2b7811797d03",
+                            "height": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "refType": "Button",
+                            "skin": "s860aaf99a1c423686c0de2c0d5e0d8c",
+                            "text": "Previous",
+                            "width": {
+                                "type": "ref",
+                                "value": "preferred"
+                            }
+                        },
+                        "kuid": "d8e66fc0c00c4dd09db5dc1367d70e27",
+                        "style": 0,
+                        "tintColor": "33ff0000",
+                        "type": 3
+                    }
+                ],
+                "tintColor": "33ff0000",
+                "translucent": true
+            }
+        },
+        "titleBar": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "i7e4b7fc14b946bfb532e2a883250627",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhoneX",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "titleBarSkin": "sbfef7751bb446fd845030102642c8fb",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    }
+}

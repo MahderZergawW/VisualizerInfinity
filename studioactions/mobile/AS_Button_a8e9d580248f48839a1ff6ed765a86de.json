@@ -1,0 +1,24 @@
+{
+    "AS_Button_a8e9d580248f48839a1ff6ed765a86de": {
+        "id": "AS_Button_a8e9d580248f48839a1ff6ed765a86de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a64f6598c82b44d2ae9cddaaeddb3341",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "CalendarAddEvent",
+            "display": "CalendarAddEvent",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

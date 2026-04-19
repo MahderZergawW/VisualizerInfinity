@@ -1,0 +1,32 @@
+{
+    "AS_Button_b9c5a89523484e57a882a3d98e637848": {
+        "id": "AS_Button_b9c5a89523484e57a882a3d98e637848",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee04d73523324814a85d295b912be23f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f741e0bd72454c11af6e59ecd1a24dff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegRotatoryView",
+            "formKUID": "a8a4b50df0c54c0f8af6a44dfaad3add",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnRotatyView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

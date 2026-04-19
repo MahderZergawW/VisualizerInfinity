@@ -1,0 +1,21 @@
+{
+    "AS_Button_deac9c97cf1a43aea17bf239ec71ec88": {
+        "id": "AS_Button_deac9c97cf1a43aea17bf239ec71ec88",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cd2fcd096c4541328bb42c2720d2e9e2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sendSMS",
+            "display": "sendSMS",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

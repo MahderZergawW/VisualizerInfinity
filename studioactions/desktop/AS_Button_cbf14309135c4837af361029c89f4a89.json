@@ -1,0 +1,27 @@
+{
+    "AS_Button_cbf14309135c4837af361029c89f4a89": {
+        "id": "AS_Button_cbf14309135c4837af361029c89f4a89",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWebSQL",
+            "type": "forms",
+            "platform": null,
+            "KUID": "af52d9f98ee24cb790fe4ac511ba87e6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h5500a816a8942adb7c234e248d7e364",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createDB",
+            "display": "createDB",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

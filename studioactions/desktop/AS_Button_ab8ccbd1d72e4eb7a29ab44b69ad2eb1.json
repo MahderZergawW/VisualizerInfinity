@@ -1,0 +1,27 @@
+{
+    "AS_Button_ab8ccbd1d72e4eb7a29ab44b69ad2eb1": {
+        "id": "AS_Button_ab8ccbd1d72e4eb7a29ab44b69ad2eb1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBrowser",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j15a43099cc3470c878b12e479b053f8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ba49a150b2a1455f91cdd0ba18436533",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "reload",
+            "display": "reload",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

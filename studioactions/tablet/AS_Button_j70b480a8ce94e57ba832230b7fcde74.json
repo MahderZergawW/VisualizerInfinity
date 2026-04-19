@@ -1,0 +1,27 @@
+{
+    "AS_Button_j70b480a8ce94e57ba832230b7fcde74": {
+        "id": "AS_Button_j70b480a8ce94e57ba832230b7fcde74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBadge",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d4c97d3a0cc444ffb246108656f6cd09"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_i0199599901042c1bdb9ee83797b7e00",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "BadgeIncrease",
+            "display": "BadgeIncrease",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

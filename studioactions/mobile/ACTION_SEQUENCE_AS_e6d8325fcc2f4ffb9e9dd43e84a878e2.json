@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_e6d8325fcc2f4ffb9e9dd43e84a878e2": {
+        "id": "ACTION_SEQUENCE_AS_e6d8325fcc2f4ffb9e9dd43e84a878e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocalStore",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d0e784ba054344489bd1745d5eab8013"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___accb7c10be564330b671e4410e770762",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "RemoveItem",
+            "display": "RemoveItem",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

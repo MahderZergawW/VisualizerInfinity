@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seaddea49b9b42c8abbdb623fd2af663",
+    "_text_": "Please click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nYou can scroll in vertical direction by swiping your hand bottom to top / top to bottom.\nPlease click top left button to observe scrolling towards right.Again click the same button to observe scrolling towards left.Also you can scroll towards top and bottom.\nYou can scroll in vertical direction by swiping your hand bottom to top / top to bottom.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "RichText0a1712c3df2504a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jabf9df56c004835a1da2b2dd3c82db9",
+    "linkskin": "s89177b0b7d5422b82a4859efce72509",
+    "name": "kony.ui.RichText",
+    "parent": "flxMainData",
+    "pf": "frmScrollBoxMenu",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

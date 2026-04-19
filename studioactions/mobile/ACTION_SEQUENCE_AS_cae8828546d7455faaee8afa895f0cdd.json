@@ -1,0 +1,31 @@
+{
+    "ACTION_SEQUENCE_AS_cae8828546d7455faaee8afa895f0cdd": {
+        "id": "ACTION_SEQUENCE_AS_cae8828546d7455faaee8afa895f0cdd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h157161fda6e4850a76c041f0ebaef7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d3f3dc13ef734ba29d74b9c41c996caa",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGeoCurrentNWatch",
+            "formKUID": "f014ac0d06824019b2d3049f61f28299",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

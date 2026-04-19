@@ -1,0 +1,224 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings1"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings223"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$600"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings32344"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$6400"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Checking1"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Checking2"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$7700"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Checking3"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$100"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NA"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Titanium card"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$200"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gold card"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$200"
+            }
+        },
+        {
+            "BAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Silver card"
+            },
+            "CreditLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$400"
+            },
+            "WithdrawLimit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$200"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "93%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "22",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f3332d1b17b045c5948fb5deb52c3bad",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0c1fc05cffa2c4f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fa6ededcee5445f8a9736fb14e694b2f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmSegBoxes",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f3332d1b17b045c5948fb5deb52c3bad",
+    "rowcounter": 2,
+    "rowfocusskin": "s4890eaeb5c04305b7392910b52e8d7e",
+    "rowskin": "s257e56a27ca4071a43b425cb23a4844",
+    "rowtemplate": "FBox0c2c359a3b5ea4a",
+    "screenlevelwidget": false,
+    "seccounter": 2,
+    "sectionheaderskin": "sf094c96be7c49828475ff33c2db0c1b",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "BAccName": "BAccName",
+        "CreditLimit": "CreditLimit",
+        "FlexContainer0i0b783d2a94a47": "FlexContainer0i0b783d2a94a47",
+        "FlexContainer0ifecb73e522046": "FlexContainer0ifecb73e522046",
+        "WithdrawLimit": "WithdrawLimit"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_fef9d3dc04624d22bef53889a041990b": {
+        "id": "AS_Button_fef9d3dc04624d22bef53889a041990b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclMeterReadings",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hf87a76041bf48d99993e4eef7845c8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c7661460a98448d59c1ae1bf46fa3f18",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAclmeterOptions",
+            "formKUID": "i8d69fc7bed6440e9c3c83e55b8ec3cf",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

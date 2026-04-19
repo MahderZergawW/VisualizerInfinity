@@ -1,0 +1,26 @@
+{
+    "AS_Slider_e0386da37ab8421d9e1e2672e31bf72e": {
+        "id": "AS_Slider_e0386da37ab8421d9e1e2672e31bf72e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmSlider",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c05cc2ed156247629add2c688c4be4ce"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSlide_d131df200ffc48548f2c1d9e60cc0df2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getSelectedValue();",
+            "callbackType": null
+        }]
+    }
+}

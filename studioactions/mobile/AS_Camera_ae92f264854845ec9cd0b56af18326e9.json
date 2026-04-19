@@ -1,0 +1,30 @@
+{
+    "AS_Camera_ae92f264854845ec9cd0b56af18326e9": {
+        "id": "AS_Camera_ae92f264854845ec9cd0b56af18326e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCamAcsModes",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e2a2bd6591cc4e51ad263aeec3effec0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onCapture_df4ee729c0d14977aa09eb37395e7faf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCapturePublic",
+            "display": "onCapturePublic",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

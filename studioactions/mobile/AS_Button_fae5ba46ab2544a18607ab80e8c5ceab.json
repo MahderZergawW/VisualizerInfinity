@@ -1,0 +1,26 @@
+{
+    "AS_Button_fae5ba46ab2544a18607ab80e8c5ceab": {
+        "id": "AS_Button_fae5ba46ab2544a18607ab80e8c5ceab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_j5081f7a7bc84c72ab4b53059b8053df",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCamAcsModes",
+            "formKUID": "e2a2bd6591cc4e51ad263aeec3effec0",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnAccessModes\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

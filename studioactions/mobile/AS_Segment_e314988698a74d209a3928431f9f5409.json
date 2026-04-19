@@ -1,0 +1,30 @@
+{
+    "AS_Segment_e314988698a74d209a3928431f9f5409": {
+        "id": "AS_Segment_e314988698a74d209a3928431f9f5409",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "editmode"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEditing_b85bf28c14c6489aa236b85b13ba1968",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEditing",
+            "display": "onEditing",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

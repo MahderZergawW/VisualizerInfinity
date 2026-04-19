@@ -1,0 +1,32 @@
+{
+    "AS_Button_cb717f42940c45238966ba04523637b9": {
+        "id": "AS_Button_cb717f42940c45238966ba04523637b9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc67f773847b471da940bc88e3679a5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b9f4c9854e434af991ae55bcf354e2bd",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegInvertCylinderView",
+            "formKUID": "d837f5139b384bf8a08619bc47daed48",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnInvertedCyclndrcalView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

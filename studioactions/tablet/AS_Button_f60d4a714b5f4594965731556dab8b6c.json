@@ -1,0 +1,32 @@
+{
+    "AS_Button_f60d4a714b5f4594965731556dab8b6c": {
+        "id": "AS_Button_f60d4a714b5f4594965731556dab8b6c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCameraOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a1fff3c3d830459c9a700653aeb1dba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b7bb9a8f56e446b99d274ea1729cad7e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCamOrient",
+            "formKUID": "c1849cb30d714e4cb21c7c2e8fe1291b",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnOrentation\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_PickerView_g25452a973aa4be9b0d954cde0f63c32": {
+        "id": "AS_PickerView_g25452a973aa4be9b0d954cde0f63c32",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "component"
+        }, {
+            "datatype": "string",
+            "name": "keyselected"
+        }],
+        "contextObj": {
+            "name": "frmPickerView",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b1efe25d0f2b421da5474373dc9783e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ac5c9848e60d48b0b6e803d40ffd4057",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pickerviewselkeyvalues",
+            "display": "pickerviewselkeyvalues",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

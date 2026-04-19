@@ -1,0 +1,26 @@
+{
+    "AS_Button_gcbc1e0aba574c4e948c7ae015eb8d65": {
+        "id": "AS_Button_gcbc1e0aba574c4e948c7ae015eb8d65",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ed6cb74eae16469087c0021ac1046fd7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBadge",
+            "formKUID": "c624783df7d54f5cb95a0dc7a2000e40",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnBadge\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

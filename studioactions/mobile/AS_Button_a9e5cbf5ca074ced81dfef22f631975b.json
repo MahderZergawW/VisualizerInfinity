@@ -1,0 +1,21 @@
+{
+    "AS_Button_a9e5cbf5ca074ced81dfef22f631975b": {
+        "id": "AS_Button_a9e5cbf5ca074ced81dfef22f631975b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c7d3dd5d8c384603b3f6438824e15eeb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactioninsertData",
+            "display": "doTransactioninsertData",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

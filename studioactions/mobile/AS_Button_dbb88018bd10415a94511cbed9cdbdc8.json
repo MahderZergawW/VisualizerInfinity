@@ -1,0 +1,30 @@
+{
+    "AS_Button_dbb88018bd10415a94511cbed9cdbdc8": {
+        "id": "AS_Button_dbb88018bd10415a94511cbed9cdbdc8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBrowserOptions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "de60b106ed0f42b7be040c59770e3c42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e9fb7ef9873742589cc91d0e05ed2754",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "browserOptions",
+            "display": "browserOptions",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

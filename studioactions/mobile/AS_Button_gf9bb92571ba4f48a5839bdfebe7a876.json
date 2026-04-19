@@ -1,0 +1,21 @@
+{
+    "AS_Button_gf9bb92571ba4f48a5839bdfebe7a876": {
+        "id": "AS_Button_gf9bb92571ba4f48a5839bdfebe7a876",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h5389777139c42da9a2d9fa0980a0499",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "write",
+            "display": "write",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

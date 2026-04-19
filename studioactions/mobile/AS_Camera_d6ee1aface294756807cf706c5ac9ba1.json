@@ -1,0 +1,24 @@
+{
+    "AS_Camera_d6ee1aface294756807cf706c5ac9ba1": {
+        "id": "AS_Camera_d6ee1aface294756807cf706c5ac9ba1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onCapture_fbeda5ae724b4a5c83a4df889885dd02",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCaptureFrmOverLay",
+            "display": "onCaptureFrmOverLay",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

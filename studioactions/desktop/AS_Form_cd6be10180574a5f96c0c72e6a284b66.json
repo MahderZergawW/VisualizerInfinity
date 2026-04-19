@@ -1,0 +1,30 @@
+{
+    "AS_Form_cd6be10180574a5f96c0c72e6a284b66": {
+        "id": "AS_Form_cd6be10180574a5f96c0c72e6a284b66",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSwipe",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c467b009844947c8aeff9dc31f86312e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_init_a624919dd35742d2b5b1170bfbb47002",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dataForSeg",
+            "display": "dataForSeg",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

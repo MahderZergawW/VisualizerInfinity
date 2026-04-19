@@ -1,0 +1,24 @@
+{
+    "AS_Segment_b51645c173b349508d0aaff8aadacd35": {
+        "id": "AS_Segment_b51645c173b349508d0aaff8aadacd35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onPull_hbae7eb67b174ad8982e602ec66b6f00",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "refresh",
+            "display": "refresh",
+            "inputparams": [{
+                "name": "seguiWidget",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

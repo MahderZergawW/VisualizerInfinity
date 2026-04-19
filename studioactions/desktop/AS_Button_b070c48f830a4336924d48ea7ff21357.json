@@ -1,0 +1,27 @@
+{
+    "AS_Button_b070c48f830a4336924d48ea7ff21357": {
+        "id": "AS_Button_b070c48f830a4336924d48ea7ff21357",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclmeterOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e505bbbc9ac643218e1227de453d6a1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cb9505b4625743c19eaab926296c7422",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "startmonitoringAcc",
+            "display": "startmonitoringAcc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

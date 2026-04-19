@@ -1,0 +1,30 @@
+{
+    "AS_Image_e683a43557e548e7ad6f228cb446776a": {
+        "id": "AS_Image_e683a43557e548e7ad6f228cb446776a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmScrollBoxMenu",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b55cc8f4df0d4f84b7e632d41b5697de"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e5cff0a9b31b4e19a9a45c40eaa624f3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var menuVisibility=this.view.flxLeftMenu.isVisible;\nif(menuVisibility==false){\n  this.view.flxLeftMenu.isVisible=true;\n}else\nthis.view.flxLeftMenu.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

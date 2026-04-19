@@ -1,0 +1,23 @@
+{
+    "AS_Form_a46f554650094ca5a032fe77ed4db791": {
+        "id": "AS_Form_a46f554650094ca5a032fe77ed4db791",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdvancedWidgets",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee58b704abe0432abb18b3df94ceb168"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_gef3d5faf0c445dc9c1924749f641094",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.switchandOS3D();",
+            "callbackType": null
+        }]
+    }
+}

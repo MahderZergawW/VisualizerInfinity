@@ -1,0 +1,105 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_render_": true,
+    "_skin_": "s22e93c97387498e8d0606af88cd645d",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "android": {
+        "render": true,
+        "viewType": 4
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s664d9ac13894f06899d52014460a70a",
+    "groupcells": false,
+    "id": "CopyListBox0be1e2e37b55349",
+    "info": null,
+    "ipad": {
+        "render": false,
+        "viewType": 2
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f6d04b1528154073b16f1f830154025a",
+    "masterdata": [
+        [
+            "lb1",
+            "Value1"
+        ],
+        [
+            "lb2",
+            "Value2"
+        ],
+        [
+            "lb3",
+            "Value3"
+        ],
+        [
+            "Key1256911736",
+            "Value4"
+        ],
+        [
+            "Key230995359",
+            "Value5"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxBody",
+    "pf": "frmLstBox",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Value1"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

@@ -1,0 +1,77 @@
+{
+    "debugMode": {
+        "refreshRate": 3000, 
+        "domOutput": false, 
+        "enable": false
+    }, 
+    "targets": {
+        "target_1": {
+            "guardConfiguration": "basic", 
+            "obfuscateFilenames": false, 
+            "input": ".", 
+            "parseAnnotations": true, 
+            "ignorePaths" :[]
+        }
+    }, 
+    "globalConfiguration": {
+        "autoIgnoreIdentifiers": true, 
+        "targetType": "browser", 
+        "ignoreGlobals": true, 
+        "quietMode": false, 
+        "preserveFunctions": false, 
+        "seed": 0, 
+        "runtimeEnvironmentCheck": false
+    }, 
+    "guardConfigurations": {
+        "basic": {
+            "numericLiteralHiding": {
+                "disable": false
+            }, 
+            "controlFlowFlattening": {
+                "disable": false, 
+                "mode": "Basic", 
+                "targetCaseCount": 10 
+            }, 
+            "identifierRenaming": {
+                "characterSet": "utf8", 
+                "mapping": {}, 
+                "ignore": [],
+                "disable": false, 
+                "scheme": "short"
+            }, 
+           "operatorRemoval": {
+                "disable": false
+            }, 
+            "debugDetection": {
+                "disable": false, 
+                "debuggerStatements": {
+				    "enable": false,
+				    "functionCoverage": 100,
+				    "dynamicStatementPercentage": 5,
+				    "ignoreFunctions": []
+				}
+            }, 
+            "externalHiding": {
+                "disable": false
+            }, 
+            "minification": {
+                "disable": false
+            }, 
+            "checksum": {
+                "protectionLevel": 100, 
+                "includeFunctions": [], 
+                "inliningLevel": 5, 
+                "disable": false, 
+                "excludeFunctions": [], 
+                "validityPeriod": 20
+            }, 
+            "stringEncryption": {
+                "disable": true 
+            },
+            "scriptVerification": {
+    		  "disable": true
+    		}
+      }
+ } 
+ 
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_g745cfc459534e20b0988a23e5dbe303": {
+        "id": "AS_Button_g745cfc459534e20b0988a23e5dbe303",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegmentMoreFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cace25b293c14eea9840ebf0efcd6772"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a81cc33eefaf489092625f829f5243e0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmIconEditStyle",
+            "formKUID": "be6ce82147d04a8bb08ef3d4dbeb434b",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnIconEdit\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

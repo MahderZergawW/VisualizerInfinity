@@ -1,0 +1,32 @@
+{
+    "AS_Button_fac5b8ad58ca466db211edc12b4c7363": {
+        "id": "AS_Button_fac5b8ad58ca466db211edc12b4c7363",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee04d73523324814a85d295b912be23f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ddf1e685870348df8af8d90742c8c50f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegLinearView",
+            "formKUID": "b6f32717bfdd4b93ae865e846f8175c1",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnLinrView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

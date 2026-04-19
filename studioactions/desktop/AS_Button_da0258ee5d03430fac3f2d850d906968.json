@@ -1,0 +1,32 @@
+{
+    "AS_Button_da0258ee5d03430fac3f2d850d906968": {
+        "id": "AS_Button_da0258ee5d03430fac3f2d850d906968",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclmeterOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e505bbbc9ac643218e1227de453d6a1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_j515040e73154577ab103ee155109701",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRegisterAccelerometer",
+            "formKUID": "aac9ba446cb5408e992cf6228903317f",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnRgtrShake\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

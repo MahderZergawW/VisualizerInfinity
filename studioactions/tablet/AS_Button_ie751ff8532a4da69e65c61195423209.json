@@ -1,0 +1,32 @@
+{
+    "AS_Button_ie751ff8532a4da69e65c61195423209": {
+        "id": "AS_Button_ie751ff8532a4da69e65c61195423209",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAclmeterOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ef3031f6e22c43d0b3f47f498507c349"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a0f71d88c5a54e4585fec137c5f09279",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRegisterAccelerometer",
+            "formKUID": "aac9ba446cb5408e992cf6228903317f",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnRgtrShake\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

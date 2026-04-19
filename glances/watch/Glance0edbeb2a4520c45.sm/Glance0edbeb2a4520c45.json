@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchGlanceForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "upperGroup",
+        "lowerGroup"
+    ],
+    "containerweight": 0,
+    "currentLocale": "default",
+    "device": "appleWatch42",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "Glance0edbeb2a4520c45",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i0f31b7ea94844d8be85730af233a947",
+    "layouttype": 4,
+    "lower": "lowerGroup",
+    "name": "kony.ui.WatchGlanceForm",
+    "needappmenu": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titlebar": true,
+    "upper": "upperGroup",
+    "wType": "WatchGlanceForm"
+}

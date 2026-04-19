@@ -1,0 +1,31 @@
+{
+    "AS_Button_a484fcb4bbf14e0ab7d41469a24898c0": {
+        "id": "AS_Button_a484fcb4bbf14e0ab7d41469a24898c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmImgMaintainAspectRatio",
+            "type": "forms",
+            "platform": null,
+            "KUID": "faf093c601b9413f8f6cd159b85f12a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b7fcc101eef0408d86f9cf9fce5b0020",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmImage",
+            "formKUID": "g36484a9c3d646708bb23713578d49c2",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

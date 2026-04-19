@@ -1,0 +1,26 @@
+{
+    "AS_Button_i9ac8afeaf454fc094c1b692f3468bf9": {
+        "id": "AS_Button_i9ac8afeaf454fc094c1b692f3468bf9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c2c146b4bae04c38b0b7ff7b3fa1c7e4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmURLBasedImage",
+            "formKUID": "i22e985924174d2385d0fde5138da766",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyButton0c6ddcdbf372c41\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "AS_Button_i4b750b00883490782e3f375e5489f28": {
+        "id": "AS_Button_i4b750b00883490782e3f375e5489f28",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "IF_CONDITION_ide_onClick_hc5ed23b935e495abea2e19b0dadeb4c",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "kony.os.deviceInfo().model != \"iPhone Simulator\" && kony.os.userAgent()!=\"google_sdk\""
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_df2bae7a416e4e108a7a89b629eb7dd3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAclmeterOptions",
+            "formKUID": "i8d69fc7bed6440e9c3c83e55b8ec3cf",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "IF_CONDITION_ide_onClick_hc5ed23b935e495abea2e19b0dadeb4c",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnAccMtr\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ELSE_CONDITION_ide_onClick_iee3d48fcee04ab2a2fe53b308e56be4",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_a6106b1c3a884008bcc1668d69fc401f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Works only on device\");",
+            "parentId": "ELSE_CONDITION_ide_onClick_iee3d48fcee04ab2a2fe53b308e56be4",
+            "callbackType": null
+        }]
+    }
+}

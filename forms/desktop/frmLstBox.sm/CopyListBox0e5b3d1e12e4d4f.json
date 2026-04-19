@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_render_": true,
+    "_skin_": "sdc28fcc678e46c8b8891d3187f9016c",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s664d9ac13894f06899d52014460a70a",
+    "groupcells": false,
+    "id": "CopyListBox0e5b3d1e12e4d4f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c3bac7823612402fa5d37a20e39008ba",
+    "masterdata": [
+        [
+            "lb1",
+            "Value1"
+        ],
+        [
+            "lb2",
+            "Value2"
+        ],
+        [
+            "lb3",
+            "Value3"
+        ],
+        [
+            "Key1256911736",
+            "Value4"
+        ],
+        [
+            "Key230995359",
+            "Value5"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxBody",
+    "pf": "frmLstBox",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Value1"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

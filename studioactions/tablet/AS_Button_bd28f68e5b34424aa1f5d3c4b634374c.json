@@ -1,0 +1,27 @@
+{
+    "AS_Button_bd28f68e5b34424aa1f5d3c4b634374c": {
+        "id": "AS_Button_bd28f68e5b34424aa1f5d3c4b634374c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCrypto",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b2e857e55fe84b049268522900652044"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ae53148bd7a6400081479ca215badaf9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "decrypt",
+            "display": "decrypt",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

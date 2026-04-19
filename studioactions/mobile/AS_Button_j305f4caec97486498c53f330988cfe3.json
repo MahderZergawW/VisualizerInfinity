@@ -1,0 +1,26 @@
+{
+    "AS_Button_j305f4caec97486498c53f330988cfe3": {
+        "id": "AS_Button_j305f4caec97486498c53f330988cfe3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c097a7c62b76440eb0d79bc3cc8b1554",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCameraFrmOverlay",
+            "formKUID": "a0582512fff14906b21694cdf0b61aff",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnOverlay\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

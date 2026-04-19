@@ -1,0 +1,21 @@
+{
+    "AS_Button_b8c387cda65a4a5995abda90b604a1c1": {
+        "id": "AS_Button_b8c387cda65a4a5995abda90b604a1c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_jbae721711d44dae867653202ba80906",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "retrieveCurrentAcc",
+            "display": "retrieveCurrentAcc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

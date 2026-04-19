@@ -1,0 +1,27 @@
+{
+    "AS_Button_ba80224ee26141f2997f67361a65b997": {
+        "id": "AS_Button_ba80224ee26141f2997f67361a65b997",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocalStore",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9bf718320e24b529f953eca3aae7201"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e528b7c626a84433bc6347f838329f63",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "RemoveItem",
+            "display": "RemoveItem",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

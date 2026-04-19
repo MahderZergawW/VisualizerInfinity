@@ -1,0 +1,24 @@
+{
+    "AS_Form_a6b2b012a00c420d886c264d9fb671c9": {
+        "id": "AS_Form_a6b2b012a00c420d886c264d9fb671c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmFlex",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd051e9639354a1391a1ac934df36c11"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bcb39f3418334063a7673f7708800ddf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.animateFlex();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

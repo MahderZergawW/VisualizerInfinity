@@ -1,0 +1,21 @@
+{
+    "AS_Button_h757fe97981c4ca78c41eb14a7035e7a": {
+        "id": "AS_Button_h757fe97981c4ca78c41eb14a7035e7a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c9fe37d17fbe4169a7d2eac82ec6a0d9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeContact",
+            "display": "removeContact",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

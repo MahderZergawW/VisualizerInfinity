@@ -1,0 +1,21 @@
+{
+    "AS_Button_e3654bb31f0643c0800385e7281200e0": {
+        "id": "AS_Button_e3654bb31f0643c0800385e7281200e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b80fb18a55294cbb910e9289cdc5b635",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactionUpdate",
+            "display": "doTransactionUpdate",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

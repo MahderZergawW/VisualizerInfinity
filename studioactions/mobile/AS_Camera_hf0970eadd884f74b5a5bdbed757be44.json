@@ -1,0 +1,24 @@
+{
+    "AS_Camera_hf0970eadd884f74b5a5bdbed757be44": {
+        "id": "AS_Camera_hf0970eadd884f74b5a5bdbed757be44",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onCapture_i237232ff1e84b08be24f22034293d7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCapturePortrait",
+            "display": "onCapturePortrait",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

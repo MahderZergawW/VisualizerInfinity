@@ -1,0 +1,30 @@
+{
+    "AS_Form_b1584e05a50341419c6bb6543548b34b": {
+        "id": "AS_Form_b1584e05a50341419c6bb6543548b34b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmIconEditStyle",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e0e5d8952e4b4b29922c1c4b1f2fc41c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_init_c8a7c6f226a146608b08dfb0badc0d87",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dataForSeg",
+            "display": "dataForSeg",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

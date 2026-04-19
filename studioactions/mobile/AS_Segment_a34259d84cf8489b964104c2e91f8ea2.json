@@ -1,0 +1,21 @@
+{
+    "AS_Segment_a34259d84cf8489b964104c2e91f8ea2": {
+        "id": "AS_Segment_a34259d84cf8489b964104c2e91f8ea2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onReachingEnd_a4b8ac5f94a746c8a43490d81b1f3f32",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "scrollEnd",
+            "display": "scrollEnd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

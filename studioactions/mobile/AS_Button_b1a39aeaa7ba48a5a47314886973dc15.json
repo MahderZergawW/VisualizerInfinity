@@ -1,0 +1,32 @@
+{
+    "AS_Button_b1a39aeaa7ba48a5a47314886973dc15": {
+        "id": "AS_Button_b1a39aeaa7ba48a5a47314886973dc15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h157161fda6e4850a76c041f0ebaef7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d3f3dc13ef734ba29d74b9c41c996caa",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGeoCurrentNWatch",
+            "formKUID": "f014ac0d06824019b2d3049f61f28299",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

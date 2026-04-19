@@ -1,0 +1,31 @@
+{
+    "AS_Button_ba1c1f64f73b4eeb87d7c08c6150ad13": {
+        "id": "AS_Button_ba1c1f64f73b4eeb87d7c08c6150ad13",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCal",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a681fc70d7ef4b228ab3932d4693ecb7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b0d8c19d8cb54fd1bb99cee8fd141265",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBasicWidgets",
+            "formKUID": "gb3d901c50b44f5d95aae6fc4b6e1aee",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

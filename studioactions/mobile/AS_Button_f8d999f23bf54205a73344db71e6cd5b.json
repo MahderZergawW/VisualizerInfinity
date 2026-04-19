@@ -1,0 +1,26 @@
+{
+    "AS_Button_f8d999f23bf54205a73344db71e6cd5b": {
+        "id": "AS_Button_f8d999f23bf54205a73344db71e6cd5b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a0ec67e8f00d4f72b65dacf9b1582690",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegCylinderView",
+            "formKUID": "b86edfd7f1964dfaa3a4c0d4023f7e63",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCylndrclView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

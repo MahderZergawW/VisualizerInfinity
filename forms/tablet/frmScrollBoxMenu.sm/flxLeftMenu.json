@@ -1,0 +1,81 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9aeb2d719ca4b21b8d04eddb97fceea",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxUsr",
+        "Label0aa56048d29a841",
+        "CopyflxUsr0fd80c8b3929b4c",
+        "CopyflxUsr0e56a6653820540",
+        "CopyflxUsr0a4909f10ee5243",
+        "CopyflxUsr0b5cdb717fc1b4d",
+        "CopyflxUsr0ced4dbdc9d7a40",
+        "CopyLabel0cb9d015e96d942",
+        "CopyflxUsr0jceff17cbd8c44",
+        "CopyflxUsr0g9ecf7e78f8244",
+        "CopyflxUsr0i95d0d461e1f4b",
+        "CopyflxUsr0id287d87834343",
+        "CopyflxUsr0j924e76987c24e"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "flxLeftMenu",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "b479dd4f0d964b8e8d2a099ded0cb7ba",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FlexContainer0i574239c8a444b",
+    "pf": "frmScrollBoxMenu",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

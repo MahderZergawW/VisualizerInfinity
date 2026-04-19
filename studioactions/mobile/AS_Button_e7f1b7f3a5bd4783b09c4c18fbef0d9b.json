@@ -1,0 +1,28 @@
+{
+    "AS_Button_e7f1b7f3a5bd4783b09c4c18fbef0d9b": {
+        "id": "AS_Button_e7f1b7f3a5bd4783b09c4c18fbef0d9b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBrowser",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae3b2ff67aa44b4ba0b07d622713ab52"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j60f520534d34c49a2bffbe2848368eb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goBack",
+            "display": "goBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

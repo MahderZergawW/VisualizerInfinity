@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "Decrypt",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "94%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "id": "CopyButton0bfe6507af12d42",
+    "ide_onClick": "AS_Button_bd28f68e5b34424aa1f5d3c4b634374c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h06a7830cec2465f9606f2cd50424aa5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a2471a5e214d4a00bdb2dc31d867185b",
+    "parent": "CopyFlexContainer0cd0205e3b0cf4c",
+    "pf": "frmCrypto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

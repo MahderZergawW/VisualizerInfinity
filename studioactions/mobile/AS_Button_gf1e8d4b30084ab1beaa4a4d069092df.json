@@ -1,0 +1,26 @@
+{
+    "AS_Button_gf1e8d4b30084ab1beaa4a4d069092df": {
+        "id": "AS_Button_gf1e8d4b30084ab1beaa4a4d069092df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f7ab4943f8ba4c0683a933f00a588e12",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEmail",
+            "formKUID": "cec4cca3d7804bf6ac8590b7290d0f80",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnEmail\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

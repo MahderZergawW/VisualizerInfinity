@@ -1,0 +1,28 @@
+{
+    "AS_Button_a289ad0d5cf34d1aaa70203c496dd41d": {
+        "id": "AS_Button_a289ad0d5cf34d1aaa70203c496dd41d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAppSetWrite",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d60951f8943b4cc0bbf69cb1b7094214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f756a16c50dd4206ab4c6f787aabc481",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "write",
+            "display": "write",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

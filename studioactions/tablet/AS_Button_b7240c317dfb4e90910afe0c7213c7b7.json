@@ -1,0 +1,32 @@
+{
+    "AS_Button_b7240c317dfb4e90910afe0c7213c7b7": {
+        "id": "AS_Button_b7240c317dfb4e90910afe0c7213c7b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTabs",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd7f9862fc244b76bca2f8c3eaff068d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_hf8c1d7d6d8848c68824161340984a39",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCustomCollapsTab",
+            "formKUID": "a8866008afa44fda83ba0fb2f89672d4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopybtnPageVw0f027eb41f4a246\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

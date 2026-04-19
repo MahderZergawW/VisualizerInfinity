@@ -1,0 +1,96 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sda3cf0af75349a0bd86131dc017b614",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopychkBxDflt0d3070602e1c348",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "e813428949714e1b9528351d2dbc2f50",
+    "masterdata": [
+        [
+            "cbg1",
+            "value1"
+        ],
+        [
+            "cbg2",
+            "value2"
+        ],
+        [
+            "cbg3",
+            "value3"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "flxBody",
+    "pf": "frmChk",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": [
+        "cbg1",
+        "cbg2",
+        "cbg3"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "cbg1",
+            "value1"
+        ],
+        [
+            "cbg2",
+            "value2"
+        ],
+        [
+            "cbg3",
+            "value3"
+        ]
+    ],
+    "size": 18,
+    "tickedimage": "chkboxchkd.png",
+    "untickedimage": "chkbox.png",
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

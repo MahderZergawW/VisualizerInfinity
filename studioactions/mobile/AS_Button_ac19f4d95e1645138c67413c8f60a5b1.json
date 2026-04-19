@@ -1,0 +1,21 @@
+{
+    "AS_Button_ac19f4d95e1645138c67413c8f60a5b1": {
+        "id": "AS_Button_ac19f4d95e1645138c67413c8f60a5b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d00809dffbc146ab8ceb4d2a8f02ad14",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "emailSend",
+            "display": "emailSend",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

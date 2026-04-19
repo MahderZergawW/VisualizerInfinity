@@ -1,0 +1,31 @@
+{
+    "AS_Button_c8b571cfa1d94dd48a97d9b8d9af2d4e": {
+        "id": "AS_Button_c8b571cfa1d94dd48a97d9b8d9af2d4e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniCurl",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5e9f166006d45489e602f01d9623060"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_g1f1dfb5364b4bfb9599b53bd35db486",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAni",
+            "formKUID": "a6018da0eb1e490ab79346b4fc258fd4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

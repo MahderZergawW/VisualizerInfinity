@@ -1,0 +1,21 @@
+{
+    "AS_Button_d789d0f096824da38be8537b01271d99": {
+        "id": "AS_Button_d789d0f096824da38be8537b01271d99",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a0a8c415db8c4fb5bb0a7b5253c226ee",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactionsqlSelect",
+            "display": "doTransactionsqlSelect",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

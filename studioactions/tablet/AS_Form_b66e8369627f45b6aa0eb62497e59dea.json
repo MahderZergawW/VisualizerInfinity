@@ -1,0 +1,30 @@
+{
+    "AS_Form_b66e8369627f45b6aa0eb62497e59dea": {
+        "id": "AS_Form_b66e8369627f45b6aa0eb62497e59dea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPushPull",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e8ece4ed17eb4d89a70e3f4f44d0df03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_init_hc9132e06c5e4f268227223a2a4fc6e9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dataForSeg",
+            "display": "dataForSeg",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

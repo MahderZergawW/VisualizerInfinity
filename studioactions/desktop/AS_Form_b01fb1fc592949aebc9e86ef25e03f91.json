@@ -1,0 +1,27 @@
+{
+    "AS_Form_b01fb1fc592949aebc9e86ef25e03f91": {
+        "id": "AS_Form_b01fb1fc592949aebc9e86ef25e03f91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBadge",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c2c0f453afa44daea48ac27e306c6e8e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_preShow_fca34b1b3ced4d90af11c8ac7bf18d62",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setBadge",
+            "display": "setBadge",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

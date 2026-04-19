@@ -1,0 +1,27 @@
+{
+    "AS_Button_a040204f245f48e18cfec70ad611eaca": {
+        "id": "AS_Button_a040204f245f48e18cfec70ad611eaca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocalStore",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9bf718320e24b529f953eca3aae7201"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_deeaf741d5d64480b6bae2d94cdc1887",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ClearItem",
+            "display": "ClearItem",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

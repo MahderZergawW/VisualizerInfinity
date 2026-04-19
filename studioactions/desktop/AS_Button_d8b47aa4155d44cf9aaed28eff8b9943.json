@@ -1,0 +1,32 @@
+{
+    "AS_Button_d8b47aa4155d44cf9aaed28eff8b9943": {
+        "id": "AS_Button_d8b47aa4155d44cf9aaed28eff8b9943",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegCoverFlowView",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e13d49b6dc8c4de192a9320075054f81"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ed3e4c8bbba74ccd8386c2c22bdbf192",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegViews",
+            "formKUID": "ef83a5b297e24681b3064707189a0f58",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

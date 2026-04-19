@@ -1,0 +1,32 @@
+{
+    "AS_Button_hd6c34a655d3426790197468b075c72a": {
+        "id": "AS_Button_hd6c34a655d3426790197468b075c72a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCameraOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h3434eb3a8d6412bbe9e9421c3d198b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d7936a903e7d4e19be34616e7017147c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCamOrient",
+            "formKUID": "c1849cb30d714e4cb21c7c2e8fe1291b",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnOrentation\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

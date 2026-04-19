@@ -1,0 +1,21 @@
+{
+    "AS_Button_fd20500c851d45a98fdf40dab8d2c70f": {
+        "id": "AS_Button_fd20500c851d45a98fdf40dab8d2c70f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_jaeb6d3a683c4d6796ed7e47fb95bd06",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Encrypt",
+            "display": "Encrypt",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

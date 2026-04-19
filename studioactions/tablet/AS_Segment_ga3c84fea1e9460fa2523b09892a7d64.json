@@ -1,0 +1,29 @@
+{
+    "AS_Segment_ga3c84fea1e9460fa2523b09892a7d64": {
+        "id": "AS_Segment_ga3c84fea1e9460fa2523b09892a7d64",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAniAnd",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hdb53d1bc1ec4ff6a84624215be64fd6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_e115e8ddcb6246048eb1584f8a634f4e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickOfFrmAniAndSeg();",
+            "callbackType": null
+        }]
+    }
+}

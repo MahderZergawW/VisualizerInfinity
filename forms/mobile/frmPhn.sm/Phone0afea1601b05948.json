@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCall",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se737be537fe4174bd39f432cb7c7ec4",
+    "_text_": "+91-999-999-8888",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "displaytext": true,
+    "focusskin": "s913461462ea42e8aa65a8cd80a7ed8a",
+    "id": "Phone0afea1601b05948",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "bc81d2dfdd6d4de7b6152c2c053050e6",
+    "name": "kony.ui.Phone",
+    "parent": "flxBody",
+    "pf": "frmPhn",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Phone",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}

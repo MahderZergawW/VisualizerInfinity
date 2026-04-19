@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_skin_": "sb86ea495dc843febd60d7c3f970f84d",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "number",
+        "value": "300"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "rdbtnGendr",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "j11eb41a358e4a4c89ab456d269dcb03",
+    "masterdata": [
+        [
+            "rbg1",
+            "Male"
+        ],
+        [
+            "rbg2",
+            "Female"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "flxBody",
+    "pf": "frmForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "rbg1",
+    "selectedkeyvalue": [
+        "rbg1",
+        "Male"
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

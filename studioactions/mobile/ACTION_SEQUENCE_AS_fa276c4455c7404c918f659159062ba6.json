@@ -1,0 +1,31 @@
+{
+    "ACTION_SEQUENCE_AS_fa276c4455c7404c918f659159062ba6": {
+        "id": "ACTION_SEQUENCE_AS_fa276c4455c7404c918f659159062ba6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmSegOnReachEnd",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f048a3e0432242ea82b8430ac5fd1710"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b40b97afa78e469781eaa3200eca9f92",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "beginEdit",
+            "display": "beginEdit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

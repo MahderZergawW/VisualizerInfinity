@@ -1,0 +1,28 @@
+{
+    "AS_Form_a4976dd924ad4dd5b1daa01727a05a14": {
+        "id": "AS_Form_a4976dd924ad4dd5b1daa01727a05a14",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGeoCurrentNWatch",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f014ac0d06824019b2d3049f61f28299"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b76454bd1f0f4727ab6853610a88d7e2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "geoPosition",
+            "display": "geoPosition",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

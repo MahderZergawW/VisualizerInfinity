@@ -1,0 +1,21 @@
+{
+    "AS_Button_e104f093da4d428dabac893253823d24": {
+        "id": "AS_Button_e104f093da4d428dabac893253823d24",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e3e5b1d1acf949bfa05869d65d3f3390",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactionDelete",
+            "display": "doTransactionDelete",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

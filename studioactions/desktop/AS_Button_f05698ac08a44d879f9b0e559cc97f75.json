@@ -1,0 +1,32 @@
+{
+    "AS_Button_f05698ac08a44d879f9b0e559cc97f75": {
+        "id": "AS_Button_f05698ac08a44d879f9b0e559cc97f75",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc67f773847b471da940bc88e3679a5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_i675d4e2ab634d958009bbae4d9c3dd4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegInvertRotaryView",
+            "formKUID": "b7b424f9de6e4a6fa39c7fb703a19ff3",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btninvrtdRotatryView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

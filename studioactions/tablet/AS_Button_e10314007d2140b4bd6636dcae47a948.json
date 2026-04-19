@@ -1,0 +1,27 @@
+{
+    "AS_Button_e10314007d2140b4bd6636dcae47a948": {
+        "id": "AS_Button_e10314007d2140b4bd6636dcae47a948",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContact",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j4eaa7dbf78e4f21994b7c1977cfa8f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ec95002df13840c3bdf60d0370ebbaf3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addContact",
+            "display": "addContact",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

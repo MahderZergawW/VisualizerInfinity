@@ -1,0 +1,28 @@
+{
+  "android": {
+    "background_image": "textbox.png",
+    "bg_type": "image",
+    "font_name": "default",
+    "isForked": true
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "333333ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "333333ff",
+  "font_name": "iphoneSystem",
+  "font_size": 107,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "background_image": "textbox.png",
+    "bg_type": "image",
+    "font_name": "System",
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s0783013d17d4b4aa8e3879fcfa23280",
+  "wType": "TextArea"
+}

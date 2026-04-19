@@ -1,0 +1,32 @@
+{
+    "AS_Button_dd8d0acfb68b4634840b51189f5f32b7": {
+        "id": "AS_Button_dd8d0acfb68b4634840b51189f5f32b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic2ade35a9ac4fcc807a1834823e0db6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f425cabfcb6a4f3981cc476bd89386f7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEmail",
+            "formKUID": "cec4cca3d7804bf6ac8590b7290d0f80",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnEmail\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

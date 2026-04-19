@@ -1,0 +1,31 @@
+{
+    "ACTION_SEQUENCE_AS_f6c0208b8d3b42178be7a7143d9653d4": {
+        "id": "ACTION_SEQUENCE_AS_f6c0208b8d3b42178be7a7143d9653d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h157161fda6e4850a76c041f0ebaef7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cd362224b39a4d259139be4f10279fd7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCrypto",
+            "formKUID": "efd524ec2e8049549fc9b596c5368e32",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

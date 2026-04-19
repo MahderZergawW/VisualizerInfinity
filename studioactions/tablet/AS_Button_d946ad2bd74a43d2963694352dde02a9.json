@@ -1,0 +1,32 @@
+{
+    "AS_Button_d946ad2bd74a43d2963694352dde02a9": {
+        "id": "AS_Button_d946ad2bd74a43d2963694352dde02a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee04d73523324814a85d295b912be23f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c9565599a62d4156afefef0de83cd555",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegCoverFlowView",
+            "formKUID": "i36be70bdf824218b74e9f3a1865c413",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCvrView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

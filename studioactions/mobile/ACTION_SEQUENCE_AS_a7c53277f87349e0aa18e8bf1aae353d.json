@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_a7c53277f87349e0aa18e8bf1aae353d": {
+        "id": "ACTION_SEQUENCE_AS_a7c53277f87349e0aa18e8bf1aae353d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocalStore",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d0e784ba054344489bd1745d5eab8013"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4e6601ab52f4b9c9d9bf4cd2cc6b351",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "GetKey",
+            "display": "GetKey",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

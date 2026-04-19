@@ -1,0 +1,23 @@
+{
+    "AS_Form_i71c2884b0654edaac6add468802f5e5": {
+        "id": "AS_Form_i71c2884b0654edaac6add468802f5e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmComplex",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b73ffb56fe6544a2adea684a50b854f8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onOrientationChange_f0251b932a0e4866bade8ba25634e9e6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.forceLayout();",
+            "callbackType": null
+        }]
+    }
+}

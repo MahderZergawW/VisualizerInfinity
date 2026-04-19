@@ -1,0 +1,25 @@
+{
+    "ACTION_SEQUENCE_AS_a55b9abe75984975b5858410b1bb34cf": {
+        "id": "ACTION_SEQUENCE_AS_a55b9abe75984975b5858410b1bb34cf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ce846247aadf40bf87c1ddd84123166b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCustomCollapsTab",
+            "formKUID": "a8866008afa44fda83ba0fb2f89672d4",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

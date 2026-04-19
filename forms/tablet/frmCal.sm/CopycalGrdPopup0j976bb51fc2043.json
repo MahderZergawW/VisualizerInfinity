@@ -1,0 +1,111 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        null,
+        null,
+        null
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sd4b46d4c71348d3802990bd8e7d6383",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "advview": "wheelonscreen",
+    "android": {
+        "render": false
+    },
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        null,
+        null,
+        null
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": null,
+    "daytextalignmentincell": 5,
+    "entereddate": null,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "CopycalGrdPopup0j976bb51fc2043",
+    "info": null,
+    "ipad": {
+        "render": true,
+        "viewType": "wheelonscreen"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb89eff026324a04b08e23d4820666d9",
+    "luadate": [
+        null,
+        null,
+        null
+    ],
+    "minutes": 0,
+    "month": null,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2018",
+    "parent": "flxBody",
+    "pf": "frmCal",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2018",
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "viewtype": "popup",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": false
+    },
+    "year": null,
+    "zindex": 1
+}

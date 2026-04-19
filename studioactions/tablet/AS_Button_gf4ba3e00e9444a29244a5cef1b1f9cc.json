@@ -1,0 +1,32 @@
+{
+    "AS_Button_gf4ba3e00e9444a29244a5cef1b1f9cc": {
+        "id": "AS_Button_gf4ba3e00e9444a29244a5cef1b1f9cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAniTopDown",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d81971880e5d4e9495174ab44b61ff25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e68edf2b3c92449480583b6e3f368e7a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAniAnd",
+            "formKUID": "j699625c0f894b0d8cb26994a9b62b86",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

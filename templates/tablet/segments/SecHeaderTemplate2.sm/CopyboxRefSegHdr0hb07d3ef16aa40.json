@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc7fc2bb9da641b6a5c11cd4feac8570",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblSecHdr1",
+        "lblSecHdr2"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "CopyboxRefSegHdr0hb07d3ef16aa40Controller"
+        }
+    },
+    "enablescrolling": true,
+    "id": "CopyboxRefSegHdr0hb07d3ef16aa40",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ccf546d193584fb5961d8a7903633f66",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "SecHeaderTemplate2",
+    "pf": "SecHeaderTemplate2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

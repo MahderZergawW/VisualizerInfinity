@@ -1,0 +1,48 @@
+{
+    "AS_Segment_h7cc92320af84112b7b00f76503ba189": {
+        "id": "AS_Segment_h7cc92320af84112b7b00f76503ba189",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "editmode"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmIconEditStyle",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e0e5d8952e4b4b29922c1c4b1f2fc41c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEditing_f37d7aa09cea4879acadd4fdc28396cd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEditingIconStyle",
+            "display": "onEditingIconStyle",
+            "inputparams": [{
+                "name": "seguiWidget",
+                "value": " eventobject"
+            }, {
+                "name": "editmode",
+                "value": " editmode"
+            }, {
+                "name": "sectionIndex",
+                "value": " sectionNumber"
+            }, {
+                "name": "rowIndex",
+                "value": " rowNumber"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

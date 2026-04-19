@@ -1,0 +1,32 @@
+{
+    "AS_Button_efbae3238a5745899f1edf434836a2ad": {
+        "id": "AS_Button_efbae3238a5745899f1edf434836a2ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTabs",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de2f90076a3f43e58144a70203043fc8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f9e7e922b3a14befac0fede7ffd3edb0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTabCollpasible",
+            "formKUID": "b1f1cb13d9334380ad915953eb238d0a",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCollapsible\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

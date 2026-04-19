@@ -1,0 +1,28 @@
+{
+    "ACTION_SEQUENCE_AS_a0ec025d37e34a76835186d60cdc4f1f": {
+        "id": "ACTION_SEQUENCE_AS_a0ec025d37e34a76835186d60cdc4f1f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCrypto",
+            "type": "forms",
+            "platform": null,
+            "KUID": "efd524ec2e8049549fc9b596c5368e32"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d0309e30969c490f8f720e7304bcf608",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Encrypt",
+            "display": "Encrypt",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

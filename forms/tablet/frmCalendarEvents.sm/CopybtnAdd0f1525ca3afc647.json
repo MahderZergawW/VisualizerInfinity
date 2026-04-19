@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "_text_": "Confidential event",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saac0cc0a3a14cf19611db6eb9ac4601",
+    "id": "CopybtnAdd0f1525ca3afc647",
+    "ide_onClick": "AS_Button_f28538ba99ae4c44ab12033cf0b8ebbf",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j745ca03fa0a4825b698ee5622d5a0d8",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_i302fe9223ee4af989eeaa024229a408",
+    "parent": "flxBody",
+    "pf": "frmCalendarEvents",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

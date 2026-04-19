@@ -1,0 +1,32 @@
+{
+    "AS_Button_i119ad35c7944a8f951be1c912129d19": {
+        "id": "AS_Button_i119ad35c7944a8f951be1c912129d19",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h157161fda6e4850a76c041f0ebaef7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c734a1ac93974c57be8d9b6997fa377d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCalendarEvents",
+            "formKUID": "f1c9c7564f5641c39c65e54df22b9b73",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

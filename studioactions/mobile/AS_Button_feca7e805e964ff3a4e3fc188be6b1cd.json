@@ -1,0 +1,26 @@
+{
+    "AS_Button_feca7e805e964ff3a4e3fc188be6b1cd": {
+        "id": "AS_Button_feca7e805e964ff3a4e3fc188be6b1cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_bcac8b2b53174321a936e7c62e97539f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCalendarEvents",
+            "formKUID": "f1c9c7564f5641c39c65e54df22b9b73",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCalEvents\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

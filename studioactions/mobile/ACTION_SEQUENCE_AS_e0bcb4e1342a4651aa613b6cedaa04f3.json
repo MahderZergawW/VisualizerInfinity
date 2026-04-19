@@ -1,0 +1,27 @@
+{
+    "ACTION_SEQUENCE_AS_e0bcb4e1342a4651aa613b6cedaa04f3": {
+        "id": "ACTION_SEQUENCE_AS_e0bcb4e1342a4651aa613b6cedaa04f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmSlider",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c029c3725b8f45c9b4ea4c5ab917f226"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ec904dfa02f6417cbd16f40b1d2af133",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getSelectedValue();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

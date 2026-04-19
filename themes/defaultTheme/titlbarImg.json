@@ -1,0 +1,21 @@
+{
+  "android": {
+    "background_image": "konygreen.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "background_color": "ffffff",
+  "bg_type": "one",
+  "font_color": "333333",
+  "font_name": "Helvetica",
+  "font_size": "100",
+  "font_weight": "normal",
+  "iphone": {
+    "background_image": "konygreen.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s3069cc487db4665b74076ff7b2f8f89",
+  "wType": "TitleBar"
+}

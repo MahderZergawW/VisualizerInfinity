@@ -1,0 +1,32 @@
+{
+    "AS_Button_edecd2315e694af190a8ad84f9600b29": {
+        "id": "AS_Button_edecd2315e694af190a8ad84f9600b29",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDvcFeatures",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic2ade35a9ac4fcc807a1834823e0db6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a57f7ee26bde48be971a9d3f036ed6b9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCrypto",
+            "formKUID": "efd524ec2e8049549fc9b596c5368e32",
+            "projectName": "KitchenSink6ScreenApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCrypto\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_c550784110084ef7a28c7709e0bc156a": {
+        "id": "AS_Button_c550784110084ef7a28c7709e0bc156a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegMultiSelect",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h156534b30fe428896c1c2a360c56089"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_afca470d962d41eabccd21c9970a8914",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var params = this.view.segSecHdrWidoutTmplate.selectedRowItems;\nvar navObj = new kony.mvc.Navigation(\"frmSegMulSelectData\");\nnavObj.navigate(params);",
+            "callbackType": null
+        }]
+    }
+}

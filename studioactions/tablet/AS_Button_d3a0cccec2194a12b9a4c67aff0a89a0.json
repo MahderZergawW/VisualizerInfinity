@@ -1,0 +1,29 @@
+{
+    "AS_Button_d3a0cccec2194a12b9a4c67aff0a89a0": {
+        "id": "AS_Button_d3a0cccec2194a12b9a4c67aff0a89a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBrowserOptions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ga19aee77d024935899819cd7242e73c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b6059822eb1b49f7886b7ad3d2993a91",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "browserOptions",
+            "display": "browserOptions",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

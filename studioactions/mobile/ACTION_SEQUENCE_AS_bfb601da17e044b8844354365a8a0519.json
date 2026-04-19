@@ -1,0 +1,31 @@
+{
+    "ACTION_SEQUENCE_AS_bfb601da17e044b8844354365a8a0519": {
+        "id": "ACTION_SEQUENCE_AS_bfb601da17e044b8844354365a8a0519",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ef83a5b297e24681b3064707189a0f58"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a5e4d6ed9a784a99b4abfa210baef28f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegInvertRotaryView",
+            "formKUID": "b7b424f9de6e4a6fa39c7fb703a19ff3",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

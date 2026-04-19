@@ -1,0 +1,32 @@
+{
+    "AS_Button_i7e4320e2e174fe3aa92927504c63e91": {
+        "id": "AS_Button_i7e4320e2e174fe3aa92927504c63e91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTabs",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd7f9862fc244b76bca2f8c3eaff068d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e31f0ae97d2047939c8351c51b1f7167",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmToggleTabs",
+            "formKUID": "ee9705c93fe84d0a8096edb26f65f6e9",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopybtnPageVw0d267e30424524c\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

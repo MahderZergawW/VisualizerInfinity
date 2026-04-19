@@ -1,0 +1,28 @@
+{
+    "AS_Button_a71de5af16044caa80891283f5719987": {
+        "id": "AS_Button_a71de5af16044caa80891283f5719987",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCrypto",
+            "type": "forms",
+            "platform": null,
+            "KUID": "efd524ec2e8049549fc9b596c5368e32"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a3c1fc0c884744cf870bbe4559900f86",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createHashMD2",
+            "display": "createHashMD2",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

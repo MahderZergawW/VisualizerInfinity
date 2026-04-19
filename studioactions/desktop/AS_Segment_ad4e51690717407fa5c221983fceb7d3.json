@@ -1,0 +1,30 @@
+{
+    "AS_Segment_ad4e51690717407fa5c221983fceb7d3": {
+        "id": "AS_Segment_ad4e51690717407fa5c221983fceb7d3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPushPull",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c4528425069648d293fb08f2d3166ce2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onPull_ibb4c1b1b6ae472a93324ad6c7d7d157",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "refresh",
+            "display": "refresh",
+            "inputparams": [{
+                "name": "seguiWidget",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

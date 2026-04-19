@@ -1,0 +1,32 @@
+{
+    "AS_Button_b9b821b2371346308f346993dd1eb2b9": {
+        "id": "AS_Button_b9b821b2371346308f346993dd1eb2b9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSegViews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee04d73523324814a85d295b912be23f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ce75fd2f9d184e23870905d8448da1bc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegInvertRotaryView",
+            "formKUID": "b7b424f9de6e4a6fa39c7fb703a19ff3",
+            "projectName": "KS6App",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btninvrtdRotatryView\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

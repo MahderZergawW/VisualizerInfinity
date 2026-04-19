@@ -1,0 +1,20 @@
+{
+    "AS_Slider_a1ed8cfc90d747e4b021ce22f4c563c8": {
+        "id": "AS_Slider_a1ed8cfc90d747e4b021ce22f4c563c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSlide_d64f4382343f4d5f848a8b4aad6be4ff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getSelectedValue();",
+            "callbackType": null
+        }]
+    }
+}

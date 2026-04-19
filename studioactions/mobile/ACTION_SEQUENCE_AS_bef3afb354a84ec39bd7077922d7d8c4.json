@@ -1,0 +1,30 @@
+{
+    "ACTION_SEQUENCE_AS_bef3afb354a84ec39bd7077922d7d8c4": {
+        "id": "ACTION_SEQUENCE_AS_bef3afb354a84ec39bd7077922d7d8c4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmUICategory",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b61dba2eacf640d2bdb27edee89f806c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ed86cdea03414f54a46b24754f52d306",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.uICategory();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
